@@ -1,10 +1,6 @@
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MartinNikov&theme=tokyonight_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://skyline.github.com/martinnikov/2023)
-
-<br />
-
-[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinNikov&theme=tokyonight&bg_color=DDDDDD00&hide_border=true&langs_count=6&card_width=600&hide=stars&count_private=true)](https://github.com/MartinNikov)
+[![Martin's GitHub Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=MartinNikov&show_icons=true&theme=merko&include_all_commits=true&count_private=true)](https://github.com/MartinNikov)
 
 <br />
 
